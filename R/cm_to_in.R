@@ -1,4 +1,4 @@
-#' Calculate value in centimetres to inches
+#' Calculate value from centimetres to inches
 #'
 #' @param x numerical
 #'

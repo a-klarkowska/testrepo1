@@ -2,7 +2,7 @@
 % Please edit documentation in R/cm_to_in.R
 \name{cm_to_in}
 \alias{cm_to_in}
-\title{Calculate value in centimetres to inches}
+\title{Calculate value from centimetres to inches}
 \usage{
 cm_to_in(x)
 }
@@ -13,7 +13,7 @@ cm_to_in(x)
 numerical
 }
 \description{
-Calculate value in centimetres to inches
+Calculate value from centimetres to inches
 }
 \examples{
 x <- 10
