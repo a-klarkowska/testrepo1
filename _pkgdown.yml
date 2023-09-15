@@ -1,7 +1,5 @@
-title: centinches
 url: https://a-klarkowska.github.io/testrepo1/
 template:
-  params:
-    bootswatch: darkly
-
+  bootstrap: 5
+  theme: darkly
 
