@@ -1,0 +1,10 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  centinches: centinches.html
+last_built: 2023-09-15T06:38Z
+urls:
+  reference: https://a-klarkowska.github.io/testrepo1/reference
+  article: https://a-klarkowska.github.io/testrepo1/articles
+
