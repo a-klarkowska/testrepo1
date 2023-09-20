@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of centinches is to calculate cm to in
+The goal of centinches is to calculate cm to in and vice versa
 
 ## Installation
 
