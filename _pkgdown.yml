@@ -1,5 +1,6 @@
 url: https://a-klarkowska.github.io/testrepo1/
 template:
   bootstrap: 5
-  theme: darkly
+  bootswatch: cyborg
+  theme: arrow-dark
 
