@@ -1,9 +1,10 @@
 url: https://a-klarkowska.github.io/testrepo1/
 template:
   bootstrap: 5
-  bootswatch: quartz
+  bootswatch: cyborg
+  theme: arrow-dark
   bslib:
     base_font: {google: "EB Garamond"}
-    heading_font: {google: "Croissant One"}
+    heading_font: {google: "EB Garamond"}
     code_font: {google: "JetBrains Mono"}
 
